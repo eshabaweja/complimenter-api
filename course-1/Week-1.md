@@ -5,7 +5,7 @@
 - make everyday interactions useful, enjoyable, and accessible
 - analyse products for consumers and businesses
 - collaborate a lot
-
+- cross-functional teams
 
 ### UX
 - **feng shui**
@@ -55,4 +55,37 @@
 3. **Design** : generate storyboards, wireframes, prototypes.
 4. **Test** : evaluate the product design based on feedback from the user. Interact with front-end engineers. At this stage, the designs go through at least three phases of testing: internal tests within your company, reviews with stakeholders, and external tests with potential users.
 5. **Launch** : putting your product out there in the real world. Start promoting the product. Customer support team. Reflect. Were goals achieved? Were timelines met?
+
+
+### What makes a Good UX?
+
+- ```The Design of Everyday Things - Don Norman```
+- Norman doors: push but don't pull
+- Apps : save space by using intuitive icons
+- usable, equitable, enjoyable, and useful
+
+
+### UX designer responsibilitites
+
+- research : pain points, demographics, etc of stakeholders
+- wireframing
+- prototyping
+- creating **information architecture**
+- communicate effectively
+- branding
+- user flows
+- production design
+
+### Types of UX designers based on strength of skills
+
+1. Generalist: someone who has more ```breadth``` of knowledge (Jacks of all, Aces of none)
+2. Specialist: has more ```depth``` of design (Ace of one.)
+3. T-shaped: has a lot of breadth but specializes in one. (Jack of all, Master of one). 
+>Each designer tends to naturally have a little T-shape in their abilities, even at the beginning of their career. As you start to work on projects, you’ll probably notice where your strengths and interests lie.
+
+
+### User research methods
+- surveys
+- interviews
+- observations
 
