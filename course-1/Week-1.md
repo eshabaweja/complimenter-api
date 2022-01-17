@@ -89,3 +89,30 @@
 - interviews
 - observations
 
+### Cross-functional team members
+- Engineers : translate design into functioning experience.
+- UX researcher : understand needs and expectations of users. Small biz / startup : you do the research. Bigger businesses : designated researcher.
+- Program Manager : clear and timely communication across the team. monitor budget,timelines, assign tasks etc.
+- Product Lead : in charge of final product's success and communicate w/ stakeholders.
+- UX designers
+
+### Deciding where to work
+
+Everyone’s goals as a UX designer are different, so think about what’s most important to you when choosing a place to work. Consider questions like:
+
+- Do you enjoy a lot of structure and processes, or do you like to define your own work and schedule? 
+
+- Do you value working on a big team, or are you more comfortable working alone? 
+
+- Do you want to focus mainly on UX design, or are you interested in broadening your skill set? 
+
+#### Startup
+A small business which wants to build a unique product and bring it to the market. Multitasking. Stressful. 
+
+#### Freelancing
+Work for yourself. Work with different brands.
+#### Advertising Agencies
+Work with brands. 
+#### Design Agencies
+Design and branding.
+
